@@ -1,3 +1,4 @@
 # HappyBirthday-to-Nicole
 
-Just open the file Happybirthday.html simplely~
+
+[Press here](../NICOLE21/Happybirthday.html)
