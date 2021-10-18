@@ -29,7 +29,7 @@ class Musics {
                 title: '（失明前）我想记得的47件事',
                 singer: '陈绮贞/Fa',
                 songUrl: './songs/1.mp3',
-                imageUrl: './images/songs/1.jpg'
+                imageUrl: './images/1.jpg'
             },
             {
                 id: 2,
